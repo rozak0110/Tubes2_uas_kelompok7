@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
-import 'package:tubes2_uas_kel4/data/favorite/datasource/favorite_datasource.dart';
-import 'package:tubes2_uas_kelompok0/data/favorite/responsesmodel/favorite_responses_model_get.dart';
+import 'package:tubes2_uas_kelompok7/data/favorite/datasource/favorite_datasource.dart';
+import 'package:tubes2_uas_kelompok7/data/favorite/responsesmodel/favorite_responses_model_get.dart';
 
 class FavoriteController extends GetxController {
   final FavoriteDatasource _datasource = FavoriteDatasource();
