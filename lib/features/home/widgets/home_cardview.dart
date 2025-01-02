@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
-import 'package:tubes2_uas_kel9/data/breeds/responsesmodel/breeds_responses_model.dart';
+import 'package:tubes2_uas_kelompok7/data/breeds/responsesmodel/breeds_responses_model.dart';
 
 class HomeCard extends StatelessWidget {
   final BreedsResponsesModel image;
