@@ -2,6 +2,7 @@ import 'package:get/get.dart';
 import 'package:tubes2_uas_kelompok7/data/vote/datasource/vote_datasource.dart';
 import 'package:tubes2_uas_kelompok7/data/vote/
 import 'package:tubes2_uas_kelompok7/data/vote/responsesmodel/vote_responses_model_get.dart';
+
 class VoteController extends GetxController {
   final VoteDatasource _datasource = VoteDatasource();
   RxList<VoteResponsesModelGet> vote = <VoteResponsesModelGet>[].obs;
